@@ -1,0 +1,26 @@
+.navigations li{
+	display: inline-block;
+}
+
+.container {
+	text-align: center;
+}
+
+.navigations li{
+	margin-left: 15px;
+}
+
+.navigations a{
+	text-decoration: none;
+	color: black;
+}
+
+.navigations {
+	border: 1px solid;
+}
+
+.text {
+	border: 1px solid;
+	border-radius: 10px;
+
+}
